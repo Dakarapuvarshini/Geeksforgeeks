@@ -1,6 +1,6 @@
 class Solution:
     def findDuplicates(self, arr): 
-        # code here
+        
           d={}
           for i in arr:
                 if i not in d:
