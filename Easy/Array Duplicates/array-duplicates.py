@@ -21,7 +21,7 @@ class Solution:
  # Driver Code Starts
 # Initial Template for Python 3
 
-t = int(input())  # number of test cases
+t = int(input()) of test cases
 for _ in range(t):
     arr = list(map(int, input().split()))  # input array
     s = Solution().findDuplicates(arr)  # find the duplicates
